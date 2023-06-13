@@ -19,7 +19,7 @@ organizations:
 education:
   courses:
     - course: Ph.D. in Pattern Recognition and Intelligent System
-      institution: Institute of Automation, Chinese Academy of Sciences
+      institution: National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences
       year: 2002-2007
     - course: B.E. in Automation
       institution: Civil Aviation University of China

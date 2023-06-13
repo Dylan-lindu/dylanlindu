@@ -18,11 +18,11 @@ organizations:
     url: ""
 education:
   courses:
-    - course: Ph.D. in Pattern Recognition and Intelligent System
-      institution: Institute of Automation, Chinese Academy of Sciences
+    - course: Ph.D. in 模式识别与智能系统
+      institution: 中国科学院大学自动化研究所模式识别国家重点实验室
       year: 2002-2007
-    - course: B.E. in Automation
-      institution: Civil Aviation University of China
+    - course: B.E. in 自动化
+      institution: 中国民航大学
       year: 1998-2002
 email: ""
 superuser: false
