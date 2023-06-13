@@ -1,6 +1,6 @@
 ---
 title: 刘 冰
-role: "教授"
+role: "教授 "
 avatar_filename: avatar.jpg
 bio: "My research interests include  brain development , brain diseases "
 interests:
