@@ -14,7 +14,7 @@ social:
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=zh-CN&user=aSBMwycAAAAJ
 organizations:
-  - name: 北京师范大学 
+  - name: 北京师范大学
     url: ""
 education:
   courses:
