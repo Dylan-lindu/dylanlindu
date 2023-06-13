@@ -27,7 +27,7 @@ education:
 email: ""
 superuser: false
 user_groups:
-  - Researchers
+  - Principal Investigator
 highlight_name: false
 ---
 刘冰教授的研究兴趣主要集中在两个方面：

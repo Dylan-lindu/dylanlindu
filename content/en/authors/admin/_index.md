@@ -27,7 +27,7 @@ education:
 email: ""
 superuser: false
 user_groups:
-  - Researchers
+  - Principal Investigator
 highlight_name: false
 ---
 The research interests of Prof. Liu  Bing mainly focus on the two topics :
