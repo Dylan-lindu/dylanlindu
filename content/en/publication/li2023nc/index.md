@@ -1,5 +1,5 @@
 ---
-title: Hierarchical fluctuation shapes a dynamic flow linked to states of consciousness
+title: neuroimaging biomarker in schizophrenia
 publication_types:
   - "2"
 authors:
