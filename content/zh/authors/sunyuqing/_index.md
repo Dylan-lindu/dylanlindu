@@ -1,13 +1,13 @@
 ---
 title: Sun Yuqing
-role: Phd
+role: Postdoc
 avatar_filename: avatar
 social: []
 superuser: false
 organizations:
   - name: Institute of Automation, Chinese Academy of Sciences
 user_groups:
-  - Alumni
+  - Post Doctors & Research Assistant
 social:
   - icon: envelope
     icon_pack: fas

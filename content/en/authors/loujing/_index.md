@@ -1,13 +1,13 @@
 ---
 title: Lou Jing
-role: Research Assistant
+role: Phd
 avatar_filename: avatar
 social: []
 superuser: false
 organizations:
-  - name: Beijing Normal University
+  - name: State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University
 user_groups:
-  - Post Doctors & Research Assistant
+  - Students
 social:
   - icon: envelope
     icon_pack: fas

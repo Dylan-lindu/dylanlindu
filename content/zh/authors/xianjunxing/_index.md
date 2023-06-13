@@ -5,7 +5,7 @@ avatar_filename: avatar
 social: []
 superuser: false
 organizations:
-  - name: Beijing Normal University
+  - name: State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University
 user_groups:
   - Students
 social:

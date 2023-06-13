@@ -1,7 +1,7 @@
 ---
 title: Ding Chaoyue
 role: Phd
-avatar_filename: avatar
+avatar_filename: avatar.jpg
 social: []
 superuser: false
 organizations:
