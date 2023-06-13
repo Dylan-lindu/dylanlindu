@@ -30,8 +30,8 @@ user_groups:
   - Researchers
 highlight_name: false
 ---
-The research interests of Prof. Liu  Bing mainly focus on the two topics :
+刘冰教授的研究兴趣主要集中在两个方面：
 
-(1) Clinical translation of multi-modal neuroimaging: here we attempt to build clinical useful biomarkers for brain disorders by integrating multi-modal neuroimaging and other omics data, and using novel artificial intelligence technologies. The objective of these studies is to identify quantitative, individualized, generalized and clinically useful imaging biomarkers for the precision diagnosis and personalized treatment of brain disorders, especially for various psychiatric disorders.
+（1） 多模态神经成像的临床翻译：在这里，我们试图通过整合多模态神经图像和其他组学数据，并使用新的人工智能技术，为大脑疾病构建临床有用的生物标志物。这些研究的目的是确定定量、个性化、通用和临床有用的成像生物标志物，用于大脑疾病的精确诊断和个性化治疗，尤其是各种精神疾病。
 
-(2) Neuroscience translation of multi-modal data: By combing genome, transcriptome, multi-modal neuroimaging and other data, we attempt to study the heritability of brain networks, the connection between brain networks and genetic variations, to find key genes modulating hub brain regions and important brain connectivity, and finally to reveal the underlying genetic and neural mechanisms of the individual differences in human neurodevelopment, behaviors or brain disorders and to construct dynamic prediction models of individual performance. Our lab has published over 70 research papers in peer-reviewed journals, including Nature Medicine, Journal of Neuroscience, Schizophrenia Bulletin, Neuropsychopharmacology, NeuroImage etc.
+（2） 多模态数据的神经科学翻译：通过结合基因组、转录组、多模态神经成像等数据，我们试图研究大脑网络的遗传力、大脑网络与遗传变异之间的联系，以找到调节中枢脑区和重要大脑连接的关键基因，最后揭示人类神经发育、行为或大脑疾病个体差异的潜在遗传和神经机制，并构建个体表现的动态预测模型。我们实验室已在同行评审期刊上发表了70多篇研究论文，包括《自然医学》、《神经科学杂志》、《精神分裂症公报》、《神经病理学》、《NeuroImage》等。
