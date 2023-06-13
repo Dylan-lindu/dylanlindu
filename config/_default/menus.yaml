@@ -9,10 +9,10 @@ main:
     weight: 10
   - name: People
     url: people
-    weight: 20
+    weight: 30
   - name: Research
     url: research
-    weight: 30
+    weight: 20
   - name: Publications
     url: publication
     weight: 50
