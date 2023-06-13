@@ -13,4 +13,6 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2023-01-01T07:42:00.000Z
+
+url_pdf: https://www.nature.com/articles/s41467-023-38972-x
 ---
