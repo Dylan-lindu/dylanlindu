@@ -14,6 +14,9 @@ education:
     - course: B.E. in Weapons systems and launch 
       institution: Beijing Institute of Technology of China
       year: 2015-2019
+interests:
+  - Artificial Intelligence
+  - Brain Network
 user_groups:
   - Students
 social:
