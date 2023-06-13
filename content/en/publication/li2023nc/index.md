@@ -1,16 +1,16 @@
 ---
-title: neuroimaging biomarker in schizophrenia
+title: neuroimaging biomarker schizophrenia
 publication_types:
   - "2"
 authors:
   - Li Ang
   - admin
-publication: "***Nature Communication***"
+publication: "***Nature Medicine***"
 draft: false
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2023-06-28T07:42:00.000Z
+date: 2020-06-28T07:42:00.000Z
 ---
