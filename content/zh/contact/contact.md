@@ -46,20 +46,20 @@ design:
 
 
 
-Job Responsibilities:
+工作职责:
 
-(1) Engaged in brain network-related data analysis and research on fusion analysis methods with multi-omics data such as genome and transcriptome, as well as application research in brain diseases and brain development;
+(1) 从事脑网络相关数据分析和与基因组、转录组等多组学数据的融合分析方法研究，以及在脑疾病和脑发育方面的应用研究；
 
-(2) Assist the research team leader in the project development and the training of graduate students.
+(2) 协助课题组长进行项目开发和研究生培养工作。
 
 
 
-Recruitment conditions:
+招聘条件：
 
-(1) Have/will have a doctorate degree (majority in bioinformatics, computer science, cognitive neuroscience, psychiatry, mathematical statistics, etc.);
+(1) 具有/将具有博士学位（生物信息学、计算机科学、认知神经科学、精神病学、数理统计等方向居多）；
 
-(2) Proficiency in at least one programming tool such as Python, and experience in omics big data analysis such as neuroimaging or genomics is preferred;
+(2) 熟练掌握Python等至少一种编程工具，有神经影像学、基因组学等组学大数据分析经验者优先；
 
-(3) Have good enthusiasm for scientific research, and are willing to engage in multidisciplinary research;
+(3) 具有良好的科研热情，愿意从事多学科交叉研究；
 
-(4) Published high-level research papers (including acceptance) as the first author.
+(4) 以第一作者发表高水平研究论文（含录用）。
