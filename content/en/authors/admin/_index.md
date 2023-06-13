@@ -30,7 +30,8 @@ user_groups:
   - Principal Investigator
 highlight_name: false
 ---
-The research interests of Prof. Liu  Bing mainly focus on the two topics :
+
+The research interests of Prof. Liu Bing mainly focus on the two topics :
 
 (1) Clinical translation of multi-modal neuroimaging: here we attempt to build clinical useful biomarkers for brain disorders by integrating multi-modal neuroimaging and other omics data, and using novel artificial intelligence technologies. The objective of these studies is to identify quantitative, individualized, generalized and clinically useful imaging biomarkers for the precision diagnosis and personalized treatment of brain disorders, especially for various psychiatric disorders.
 
