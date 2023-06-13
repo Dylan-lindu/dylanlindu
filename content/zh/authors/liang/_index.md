@@ -1,13 +1,13 @@
 ---
-title: He Yini
-role: Postdoc
+title: Li Ang
+role: Phd
 avatar_filename: avatar
 social: []
 superuser: false
 organizations:
-  - name: Beijing Normal University
+  - name: Institute of Automation, Chinese Academy of Sciences
 user_groups:
-  - Post Doctors & Research Assistant
+  - Alumni
 social:
   - icon: envelope
     icon_pack: fas

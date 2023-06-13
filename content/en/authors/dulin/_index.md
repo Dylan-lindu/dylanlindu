@@ -1,16 +1,16 @@
 ---
-title: Hu Ke
-role: Phd
+title: Du Lin
+role: Master
 avatar_filename: avatar
 social: []
 superuser: false
 organizations:
-  - name: Institute of Automation, Chinese Academy of Sciences
+  - name: State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University
 user_groups:
   - Students
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:huke2019@ia.ac.cn'
+    link: 'mailto:alexlindu0@gmail.com'
 ---
 
