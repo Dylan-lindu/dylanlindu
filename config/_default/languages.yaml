@@ -9,11 +9,11 @@ en:
   contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-zh:
-  languageCode: zh-Hans
-  contentDir: content/zh
-  title: Liu Bing Lab
-#  params:
+# zh:
+#   languageCode: zh-Hans
+#   contentDir: content/zh
+#   title: Liu Bing Lab
+# #  params:
 #    description: Site description in Chinese...
 #  menu:
 #    main:
