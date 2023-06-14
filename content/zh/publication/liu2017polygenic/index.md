@@ -13,4 +13,6 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2017-02-01T08:09:02.071Z
+
+url_pdf: https://academic.oup.com/schizophreniabulletin/article/43/3/673/2503388
 ---
