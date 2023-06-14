@@ -47,7 +47,7 @@ header:
 
 footer:
   copyright:
-    notice: '©Liu Bing Lab, Beijing Normal University'
+    notice: '©Liu Bing Lab, State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University'
     license:
       enable: false
       allow_derivatives: false
