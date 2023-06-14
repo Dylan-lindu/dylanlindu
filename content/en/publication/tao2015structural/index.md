@@ -13,4 +13,6 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2015-01-01T14:27:59.738Z
+
+url_pdf: https://www.frontiersin.org/articles/10.3389/fnana.2015.00152/full
 ---

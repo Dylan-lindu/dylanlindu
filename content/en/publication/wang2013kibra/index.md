@@ -13,4 +13,6 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2013-01-01T14:35:17.908Z
+
+url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S1053811912012074
 ---
