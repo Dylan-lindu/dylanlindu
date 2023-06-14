@@ -4,8 +4,9 @@ role: "教授 认知神经科学与学习国家重点实验室"
 avatar_filename: avatar.jpg
 bio: "My research interests include  brain development , brain diseases "
 interests:
-  - Brain development
-  - Brain diseases
+  - 脑发育
+  - 脑疾病
+  - 脑影像&人工智能
 social:
   - icon: envelope
     icon_pack: fas
