@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Liu Bing
+title: Liu Bing 刘冰
 
 # Full name (for SEO)
 first_name: Liu
