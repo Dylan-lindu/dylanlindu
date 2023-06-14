@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Liu Bing 刘冰
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Liu
+last_name: Bing
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - 刘冰
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of State Key Laboratory of Cognitive Neuroscience and Learning
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Beijing Normal University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -31,15 +31,12 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Pattern Recognition and Intelligent System
+      institution: National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences
+      year: 2002-2007
+    - course: B.E. in Automation
+      institution: Civil Aviation University of China
+      year: 1998-2002
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -73,6 +70,6 @@ user_groups:
   - Principal Investigator
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Liu Bing is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
