@@ -10,10 +10,10 @@ banner:
   image: ''
 ---
 
-The research group mainly focuses on scientific issues such as imaging markers and mechanism analysis of brain diseases and brain development. From the aspects of genome, transcriptome, multimodal brain imaging, phenotype, etc., to carry out cross-study of information science, neuroscience and clinical medicine. The main research directions include:
+课题组主要围绕脑疾病和脑发育的影像学标志物和机制分析等科学问题开展研究。 从基因组、转录组、多模态脑成像、表型等方面，开展信息科学、神经科学、人工智能和临床医学的交叉研究。 主要研究方向包括：
 
-(1) Extraction method of individualized brain structure and function indexes based on multimodal imaging technology, as well as fusion analysis method and modeling research with multi-omics data;
+(1) 基于多模态成像技术的个体化脑结构和功能指标提取方法，以及与多组学数据的融合分析方法和建模研究；
 
-(2) Using imaging genomics and other methods to study objective biological markers and precise diagnosis and treatment models of major mental illnesses;
+(2) 利用影像基因组学等方法研究重大精神疾病的客观生物学标志物和精准诊疗模型；
 
-(3) Based on multi-level information to explore the relationship  of normal brain developmental trajectories model with development-related brain diseases .
+(3) 基于多层次信息探讨正常脑发育轨迹模型与发育相关脑疾病的关系。
