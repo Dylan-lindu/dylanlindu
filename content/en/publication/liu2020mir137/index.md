@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - Liu Shu
-  - Liu Bing
+  - admin
 publication: "***Psychological Medicine***"
 draft: false
 featured: false

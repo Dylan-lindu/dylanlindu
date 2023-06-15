@@ -6,7 +6,7 @@ publication_types:
   - "2"
 authors:
   - Wang Qi
-  - Liu Bing
+  - admin
 doi: ""
 publication: "*Human brain mapping*"
 publication_short: ""
