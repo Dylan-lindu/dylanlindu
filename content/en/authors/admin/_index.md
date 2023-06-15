@@ -4,11 +4,11 @@ title: Liu Bing
 
 # Full name (for SEO)
 first_name: Liu
-last_name: Bing
+last_name: Bing 
 
 # Username (this should match the folder name)
-authors:
-  - Liu-Bing 
+# authors:
+#   - Liu Bing 
 
 # Is this the primary user of the site?
 superuser: false
