@@ -8,7 +8,7 @@ last_name: Bing
 
 # Username (this should match the folder name)
 authors:
-  - Liu Bing 
+  - Liu-Bing 
 
 # Is this the primary user of the site?
 superuser: false
