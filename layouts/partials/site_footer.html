@@ -1,7 +1,10 @@
 <footer class="site-footer">
-
-  <img src="https://bingliu.netlify.app/images/logo.png" alt="Logo">
-  <img src="https://bingliu.netlify.app/images/IDG.png" alt="Logo">
+  <div class="left">
+    <div class="pic1"><img src="https://bingliu.netlify.app/images/logo.png"/></div>
+    <div class="pic2"><img src="https://bingliu.netlify.app/images/IDG.png"/></div>
+  </div>
+  <!-- <img src="https://bingliu.netlify.app/images/logo.png" alt="Logo">
+  <img src="https://bingliu.netlify.app/images/IDG.png" alt="Logo"> -->
   {{ partial "hooks/footer" . }}
 
   {{ if .IsTranslated | and site.Params.footer.show_translations }}
