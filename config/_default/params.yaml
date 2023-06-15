@@ -38,9 +38,7 @@ header:
     enable: true
     align: c
     show_logo: true
-    # logo: 
-    #     file: "images/tc.png"
-    #     alt: "Logo"
+    logo: /images/logo.png
     show_language: true
     show_day_night: true
     show_search: true
