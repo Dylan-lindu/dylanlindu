@@ -39,7 +39,7 @@ header:
     align: c
     show_logo: true
     logo: 
-        file: "https://bingliu.netlify.app/images/tc.png"
+        file: "images/tc.png"
         alt: "Logo"
     show_language: true
     show_day_night: true
