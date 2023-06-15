@@ -10,7 +10,8 @@ baseURL: 'https://kwaihua.github.io/' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: en 
+
 hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
 removePathAccents: true
