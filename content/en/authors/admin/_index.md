@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Liu Bing 刘冰
+title: Liu Bing 
 
 # Full name (for SEO)
 first_name: Liu
 last_name: Bing
 
 # Username (this should match the folder name)
-authors:
-  - 刘冰
+# authors:
+#   - 刘冰
 
 # Is this the primary user of the site?
 superuser: false
