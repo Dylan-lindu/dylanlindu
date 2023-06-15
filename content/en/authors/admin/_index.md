@@ -1,42 +1,45 @@
 ---
 # Display name
-title: Liu Bing 
+title: Alice Wu 吳恩達
 
 # Full name (for SEO)
-first_name: Liu
-last_name: Bing
+first_name: Alice
+last_name: Wu
 
 # Username (this should match the folder name)
 authors:
-  - Liu Bing
+  - 吳恩達
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of State Key Laboratory of Cognitive Neuroscience and Learning
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-  - name: Beijing Normal University
+  - name: Stanford University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Brain development
-  - Brain diseases
-  - Brain Image & Artificial Intelligence
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 education:
   courses:
-    - course: PhD in Pattern Recognition and Intelligent System
-      institution: National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences
-      year: 2002-2007
-    - course: B.E. in Automation
-      institution: Civil Aviation University of China
-      year: 1998-2002
+    - course: PhD in Artificial Intelligence
+      institution: Stanford University
+      year: 2012
+    - course: MEng in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2009
+    - course: BSc in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,16 +48,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:bing.liu@bnu.edu.cn'
-  # - icon: twitter
-  #   icon_pack: fab
-  #   link: https://twitter.com/GeorgeCushen
+    link: 'mailto:test@example.org'
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?hl=zh-CN&user=aSBMwycAAAAJ
-  # - icon: github
-  #   icon_pack: fab
-  #   link: https://github.com/gcushen
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,12 +70,10 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigator
+  - Researchers
+  - Visitors
 ---
 
-The research interests of Prof. Liu Bing mainly focus on the two topics:
+吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-(1) Clinical translation of multi-modal neuroimaging: here we attempt to build clinical useful biomarkers for brain disorders by integrating multi-modal neuroimaging and other omics data, and using novel artificial intelligence technologies. The objective of these studies is to identify quantitative, individualized, generalized and clinically useful imaging biomarkers for the precision diagnosis and personalized treatment of brain disorders, especially for various psychiatric disorders.
-
-(2) Neuroscience translation of multi-modal data: By combing genome, transcriptome, multi-modal neuroimaging and other data, we attempt to study the heritability of brain networks, the connection between brain networks and genetic variations, to find key genes modulating hub brain regions and important brain connectivity, and finally to reveal the underlying genetic and neural mechanisms of the individual differences in human neurodevelopment, behaviors or brain disorders and to construct dynamic prediction models of individual performance. Our lab has published over 70 research papers in peer-reviewed journals, including Nature Medicine, Nature Communication, Journal of Neuroscience, Schizophrenia Bulletin, Neuropsychopharmacology, NeuroImage etc.
-
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
