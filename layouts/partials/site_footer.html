@@ -1,5 +1,7 @@
 <footer class="site-footer">
 
+  <img src="{{ .Site.BaseURL }}images/tn.png" alt="Logo">
+
   {{ partial "hooks/footer" . }}
 
   {{ if .IsTranslated | and site.Params.footer.show_translations }}
