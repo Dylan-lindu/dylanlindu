@@ -3,26 +3,26 @@
 # Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
 
-widget: hero # See https://wowchemy.com/docs/page-builder/
-headless: true # This file represents a page section.
-weight: 10 # Order that this section will appear.
-title: |
-  Liu Bing  
-  Research Group
-hero_media: welcome.jpg
-design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
-  # Add custom styles
-  css_style:
-  css_class:
----
+# widget: hero # See https://wowchemy.com/docs/page-builder/
+# headless: true # This file represents a page section.
+# weight: 10 # Order that this section will appear.
+# title: |
+#   Liu Bing  
+#   Research Group
+# hero_media: welcome.jpg
+# design:
+#   # Choose how many columns the section has. Valid values: 1 or 2.
+#   columns: '1'
+#   # Add custom styles
+#   css_style:
+#   css_class:
+<!-- --- -->
 
-<br>
+<!-- <br>
 
-The **Liu Bing Research Group**  focus on clinical translation of multi-modal neuroimaging and neuroscience translation of multi-modal data.
+The **Liu Bing Research Group**  focus on clinical translation of multi-modal neuroimaging and neuroscience translation of multi-modal data. -->
 
-<!-- sections:
+sections:
   - block: slider
     content:
       slides:
@@ -68,4 +68,7 @@ The **Liu Bing Research Group**  focus on clinical translation of multi-modal ne
       # Automatically transition through slides?
       loop: false
       # Duration of transition between slides (in ms)
-      interval: 2000 -->
+      interval: 2000
+
+
+---
