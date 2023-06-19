@@ -71,10 +71,16 @@ user_groups:
 
 ---
 
-The research interests of Prof. Liu Bing mainly focus on the two topics:
+Work Experience:
 
-(1) Clinical translation of multi-modal neuroimaging: here we attempt to build clinical useful biomarkers for brain disorders by integrating multi-modal neuroimaging and other omics data, and using novel artificial intelligence technologies. The objective of these studies is to identify quantitative, individualized, generalized and clinically useful imaging biomarkers for the precision diagnosis and personalized treatment of brain disorders, especially for various psychiatric disorders.
+2021-02 - present, Researcher, State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University
 
-(2) Neuroscience translation of multi-modal data: By combing genome, transcriptome, multi-modal neuroimaging and other data, we attempt to study the heritability of brain networks, the connection between brain networks and genetic variations, to find key genes modulating hub brain regions and important brain connectivity, and finally to reveal the underlying genetic and neural mechanisms of the individual differences in human neurodevelopment, behaviors or brain disorders and to construct dynamic prediction models of individual performance. Our lab has published over 70 research papers in peer-reviewed journals, including Nature Medicine, Nature Communication, Journal of Neuroscience, Schizophrenia Bulletin, Neuropsychopharmacology, NeuroImage etc.
+2015-10 - 2021-01, Researcher, State Key Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences
 
+2010-10 - 2015-10, Institute of Automation, Chinese Academy of Sciences, State Key Laboratory of Pattern Recognition, Associate Researcher
 
+2007-07 - 2010-10, Institute of Automation, Chinese Academy of Sciences, State Key Laboratory of Pattern Recognition, Assistant Researcher
+
+Research Overview:
+
+The main research field is brain development and brain disease research based on brain network and multi-omics. At present, she has published more than 80 papers indexed by SCI in well-known international journals such as Nature Medicine, and she has been cited more than 4,000 times. She has won academic honors such as North Brain Scholar, Outstanding Young Scientist of the Chinese Academy of Sciences, Beijing Science and Technology Rising Star, Lu Jiaxi Young Talent Award, Wu Wenjun Artificial Intelligence Natural Science First Prize, Chinese Academy of Sciences President Award and other academic honors. As the person in charge, she undertakes a number of research topics including national key research and development projects, major research projects and general projects of the National Natural Science Foundation of China, pilot projects of the Chinese Academy of Sciences, and 973 sub-projects. She is currently the Secretary-General of the Brain Science and Artificial Intelligence Professional Committee of the Artificial Intelligence Society, a member of the Brain Function and Transformation Branch and the Neuroscience Branch of the Chinese Research Hospital Association, an executive director of the Clinical Research Branch of the Chinese Medicine Information Research Association, and the Brain Network Group of the Chinese Anatomy Society. She is a member of the Branch of Tomographic Imaging, and a member of the Basic and Clinical Psychiatry Branch of the Chinese Academy of Neuroscience.
