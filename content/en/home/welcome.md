@@ -26,12 +26,12 @@ The **Liu Bing Research Group**  focus on clinical translation of multi-modal ne
 
 
 ---
-# Page title
+<!-- # Page title -->
 title: My page
-# Page type - we want a landing page (such as a homepage)
+<!-- # Page type - we want a landing page (such as a homepage) -->
 type: landing
 
-# Your landing page sections - add as many different content blocks as you like
+<!-- # Your landing page sections - add as many different content blocks as you like -->
 sections:
   - block: markdown
     id: section-1
