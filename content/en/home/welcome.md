@@ -50,5 +50,5 @@ design:
 
 <br>
 
-The **Liu Bing Research Group**  focus on clinical translation of multi-modal neuroimaging and neuroscience translation of multi-modal data.
+This is a big happy family with the best teachers and the most harmonious team. Let's work and play together✨
 
