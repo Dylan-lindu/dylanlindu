@@ -48,7 +48,7 @@ design:
 
 ---
 
-<!-- <br>
+<br>
 
-The **Liu Bing Research Group**  focus on clinical translation of multi-modal neuroimaging and neuroscience translation of multi-modal data. -->
+The **Liu Bing Research Group**  focus on clinical translation of multi-modal neuroimaging and neuroscience translation of multi-modal data.
 
