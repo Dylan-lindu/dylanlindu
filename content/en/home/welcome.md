@@ -34,9 +34,9 @@
 widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 15 # Order that this section will appear.
-title: |
-  Liu Bing  
-  Research Group
+# title: |
+#   Liu Bing  
+#   Research Group
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -48,7 +48,7 @@ design:
 
 ---
 
-<br>
+<!-- <br>
 
-The **Liu Bing Research Group**  focus on clinical translation of multi-modal neuroimaging and neuroscience translation of multi-modal data.
+The **Liu Bing Research Group**  focus on clinical translation of multi-modal neuroimaging and neuroscience translation of multi-modal data. -->
 
