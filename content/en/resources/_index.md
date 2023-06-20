@@ -1,5 +1,5 @@
 ---
-title: Resources
+title: Memories
 
 # Listing view
 view: compact
