@@ -11,16 +11,20 @@ education:
     - course: PhD in Cognitive Neuroscience
       institution: State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University
       year: 2022 - now
-    - course: B.E. in Weapons systems and launch 
-      institution: Beijing Institute of Technology of China
-      year: 2015-2019
+      - course: M.D. in Embedded Systems
+      institution: Université Grenoble Alpes
+      year: 2018 - 2020
+    - course: B.E. in Electronic Information Engineering 
+      institution: Xidian University
+      year: 2015 - 2019
 interests:
-  - Artificial Intelligence
-  - Brain Network
+  - Tennis
+  - Reading
 user_groups:
   - Students
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:xianhan tian@bnu.edu.cn'
+    link: 'mailto:xiaohan.tian@mail.bnu.edu.cn'
 ---
+Now is the time to understand more, so that we may fear less.
