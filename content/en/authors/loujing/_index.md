@@ -25,3 +25,4 @@ social:
     link: 'mailto:jing lou@bnu.edu.cn'
 ---
 
+I'm interested in the biological circuitry abnormalities associated with mental disorders. Currently, my primary research focuses on studying the mechanisms of psychiatric disorders and brain development using multi-scale data within the  gene-brain-behavior context.
