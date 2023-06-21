@@ -26,4 +26,4 @@ social:
     link: 'mailto:huke2019@ia.ac.cn'
 ---
 
-I'm interested in image genomics, mental health, mental illness.
+I'm interested in Image genomics, Mental health, Mental illness.
