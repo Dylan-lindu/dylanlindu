@@ -8,9 +8,9 @@ organizations:
   - name: State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University
 education:
   courses:
-    - course:  M.D. in Computer Science
-      institution: Institute of Automation, Chinese Academy of Sciences
-      year: 2019-2022
+    - course: PhD in Cognitive Neuroscience
+      institution: State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University
+      year: 2022 - now
     - course: B.E. in Weapons systems and launch 
       institution: Beijing Institute of Technology of China
       year: 2015-2019
