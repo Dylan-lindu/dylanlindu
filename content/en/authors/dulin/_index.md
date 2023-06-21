@@ -18,7 +18,7 @@ education:
       year: 2023 - now
     - course: B.E. in Intelligent Science and Technology
       # institution: State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University
-      # year: 2023 - now
+      year: 2019 - 2023
 interests:
   - Basketball
   - Movies
