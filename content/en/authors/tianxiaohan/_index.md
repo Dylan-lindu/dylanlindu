@@ -12,7 +12,7 @@ education:
       institution: State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University
       year: 2022 - now
     - course: M.D. in Embedded Systems
-      institution: Université Grenoble Alpes
+      institution: Grenoble Alpes University
       year: 2018 - 2020
     - course: B.E. in Electronic Information Engineering 
       institution: Xidian University
