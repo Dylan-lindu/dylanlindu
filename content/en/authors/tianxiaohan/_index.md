@@ -24,4 +24,3 @@ social:
     icon_pack: fas
     link: 'mailto:xianhan tian@bnu.edu.cn'
 ---
-
