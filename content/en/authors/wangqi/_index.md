@@ -1,5 +1,5 @@
 ---
-title: Wang Qi
+title: Wang Qi 
 role: Phd
 avatar_filename: avatar
 social: []
