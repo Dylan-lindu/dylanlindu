@@ -1,7 +1,7 @@
 ---
 title: Du Lin
 role: Master
-avatar_filename: avatar
+avatar_filename: avatar.png
 social: []
 superuser: false
 organizations:
