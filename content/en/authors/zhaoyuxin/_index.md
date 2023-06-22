@@ -14,8 +14,9 @@ education:
       institution: Institute of Automation, Chinese Academy of Sciences
       year: 2018 - now
     - course: B.E. in Automation 
-      # institution: Northwestern Polytechnical University
-      year: 2014 - 2018
+      institution: Northwestern Polytechnical University
+      year: 2014 -2018
+interests:
   - Reading
   - Movies
 social:
