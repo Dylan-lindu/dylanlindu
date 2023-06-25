@@ -1,11 +1,11 @@
 ---
 title: Chen Yuanyuan
-role: Research Assistant
+role: Administrative teacher
 avatar_filename: avatar
 social: []
 superuser: false
 organizations:
-  - name: Beijing Normal University
+  - name: State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University
 user_groups:
   - Post Doctors & Research Assistant
 social:
