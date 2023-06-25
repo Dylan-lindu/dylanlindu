@@ -5,7 +5,7 @@ avatar_filename: avatar
 social: []
 superuser: false
 organizations:
-  - name: Institute of Automation, Chinese Academy of Sciences
+  - name: State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University
 user_groups:
   - Post Doctors & Research Assistant
 education:
