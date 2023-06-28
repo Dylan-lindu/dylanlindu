@@ -5,24 +5,26 @@ avatar_filename: avatar
 social: []
 superuser: false
 organizations:
-  - name: National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences
+  - name: State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University
 user_groups:
   - Students
 education:
   courses:
-    - course: PhD in Pattern Recognition and Intelligent Systems
-      institution: Institute of Automation, Chinese Academy of Sciences
-      year: 2018 - now
-    - course: B.E. in Automation 
-      institution: Northwestern Polytechnical University
-      year: 2014 -2018
+    - course: PhD in Cognitive Neuroscience
+      institution: State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University
+      year: 2023 - now
+    - course: M.D. in Applied Statistics
+      institution: Hubei University
+      year: 2017 - 2020
+    - course: B.Sc in Mathematics and Applied Data 
+      institution: Hubei University
+      year: 2013 -2017
 interests:
-  - Reading
-  - Movies
+  - Basketball
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:zhaoyuxin2018@ia.ac.cn'
+    link: 'mailto:xinghui.zhao@ia.ac.cn'
 ---
 
-Currently, I am exploring (a)typical development of the brain and its underlying mechanism.
+I am a doctoral student in cognitive neuroscience, specializing in multimodal imaging of neural circuits. My research focuses on understanding how the brain, especially the human brain, works. I am interested in investigating the functional and structural aspects of brain network circuits at different scales.
