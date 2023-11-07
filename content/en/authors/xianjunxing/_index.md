@@ -10,7 +10,7 @@ user_groups:
   - Students
 education:
   courses:
-    - course:  M.D. in Cognitive Neuroscience
+    - course: M.D. in Cognitive Neuroscience
       institution: State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University
       year: 2022 - now
     - course: B.Sc in  Biology
