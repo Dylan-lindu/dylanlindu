@@ -31,24 +31,24 @@
 
 
 
-widget: hero # See https://wowchemy.com/docs/page-builder/
-headless: true # This file represents a page section.
-weight: 15 # Order that this section will appear.
-title: 
-#   Liu Bing  
-#   Research Group
-hero_media: 22.jpg
-design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
-  # Add custom styles
-  css_style:
-  css_class:
+# widget: hero # See https://wowchemy.com/docs/page-builder/
+# headless: true # This file represents a page section.
+# weight: 15 # Order that this section will appear.
+# title: 
+# #   Liu Bing  
+# #   Research Group
+# hero_media: 22.jpg
+# design:
+#   # Choose how many columns the section has. Valid values: 1 or 2.
+#   columns: '1'
+#   # Add custom styles
+#   css_style:
+#   css_class:
 
 
----
+# ---
 
-<br>
+# <br>
 
-This is a big happy family with the best teachers and the most harmonious team. Let's work and play together✨
+# This is a big happy family with the best teachers and the most harmonious team. Let's work and play together✨
 
