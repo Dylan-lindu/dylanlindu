@@ -9,13 +9,13 @@ main:
   #   weight: 10
   - name: People
     url: people
-    weight: 40
+    weight: 30
   # - name: Research
   #   url: research
   #   weight: 10
   - name: Publications
     url: publication
-    weight: 30
+    weight: 40
   - name: Memories
     url: resources
     weight: 60
