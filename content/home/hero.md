@@ -39,8 +39,12 @@ title: |
 hero_media: 22.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
-  css_style: "max-width: 1000px; margin: 0 auto;"
+  columns: '2'
+  css_style: |
+    display: grid;
+    grid-template-columns: 3fr 1fr;  /* 左栏占 3 份，右栏占 1 份 */
+    max-width: 1000px;
+    margin: 0 auto;
   # Add custom styles
   css_class:
 
