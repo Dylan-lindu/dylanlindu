@@ -41,7 +41,7 @@ hero_media: 22.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
-  css_style: "max-width: 400px; margin: 0 auto;"
+  css_style: "max-width: 1000px; margin: 0 auto;"
   # Add custom styles
   css_class:
 
