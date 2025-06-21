@@ -41,7 +41,7 @@ design:
   columns: '2'
   css_style: |
     /* 左 3 份宽度，右侧列只撑到它内容的宽度 */
-    --grid-template-columns: 3fr min-content;  
+    --grid-template-columns: 5fr min-content;  
     /* 让整体容器更宽一些 (或去掉下面两行撑满父级) */
     max-width: none;
     width: 90vw;
