@@ -40,10 +40,11 @@ hero_media: 22.png
 design:
   columns: '2'
   css_style: |
-    /* 这里只覆写列宽比例 */
-    --grid-template-columns: 7fr 1fr;  
-    max-width: 1000px;
-    margin: 0 auto;
+    /* 左 3 份宽度，右侧列只撑到它内容的宽度 */
+    --grid-template-columns: 3fr min-content;  
+    /* 让整体容器更宽一些 (或去掉下面两行撑满父级) */
+    max-width: none;
+    width: 90vw;
   css_class: wide-hero
 
 ---
