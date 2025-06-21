@@ -31,22 +31,18 @@
 
 
 
-widget: hero # See https://wowchemy.com/docs/page-builder/
-headless: true # This file represents a page section.
-weight: 10 # Order that this section will appear.
+widget: hero
+headless: true
+weight: 10
 title: |
   Lin Du  
 hero_media: 22.png
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
   css_style: |
-    display: grid;
-    grid-template-columns: 3fr 1fr;  /* 左栏占 3 份，右栏占 1 份 */
+    --grid-template-columns: 6fr 1fr;  /* 左:右 = 3:1 */
     max-width: 1000px;
     margin: 0 auto;
-  # Add custom styles
-  css_class:
 
 
 ---
