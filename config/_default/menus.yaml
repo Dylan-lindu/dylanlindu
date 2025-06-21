@@ -7,9 +7,9 @@ main:
   # - name: Home
   #   url: home
   #   weight: 10
-  - name: Lin Du
-    url: people
-    weight: 30
+  # - name: Lin Du
+  #   url: people
+  #   weight: 30
   # - name: Research
   #   url: research
   #   weight: 10
