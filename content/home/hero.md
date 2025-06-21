@@ -35,8 +35,7 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  Liu Bing  
-  Research Group
+  Lin Du  
 hero_media: 22.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -51,4 +50,26 @@ design:
 <br>
 
 The **Liu Bing Research Group**  focus on clinical translation of multi-modal neuroimaging and neuroscience translation of multi-modal data.
+
+Department of Psychology | Center for Brain Science, Harvard University, Boston, MA, USA 
+Advised by Prof. Randy Buckner  April 2025 - Present
+
+
+Max Planck Institute for Human Cognitive and Brain Sciences | Vision and Computational Cognition Group, Leipzig, Germany 
+Advised by Prof. Martin Hebart  April 2025 - Present
+
+
+State Key Laboratory of Cognitive Neuroscience and Learning | IDG/McGovern Institute for Brain Research, Beijing Normal University (BNU), Beijing, China
+M.Eng, Computer Application Technology  Sep 2023 - Jul 2026
+Overall GPA: 3.8/4.0 (GPA Professional Ranking: 1/8)
+
+
+College of Information and Intelligent Science, Hunan Agricultural University (HUNAU), Hunan, China
+B.Eng, Intelligent Science and Technology  Sep 2019 - Jul 2023
+Overall GPA: 93.42/100 (GPA Professional Ranking: 1/70)
+
+
+School of Electronics Engineering and Computer Science, Peking University | Institute of Computing Technology, Chinese Academy of Science, Beijing, China
+Summer School, AI Computing Systems  Jul 2021 - Aug 2021
+Overall GPA: 95/100 (Best Developer Certification)
 
