@@ -48,28 +48,9 @@ design:
 ---
 
 <br>
+<span style="font-size:14px;">
+My name is Lin Du, a second-year master's student in the State Key Laboratory of Cognitive Neuroscience and Learning | IDG/McGovern Institute for Brain Research, Beijing Normal University (Ranked No.1 in China for Psychology/Psychiatry/Neuroscience).
 
-The **Liu Bing Research Group**  focus on clinical translation of multi-modal neuroimaging and neuroscience translation of multi-modal data.
+I am presently a research scholar at the Department of Psychology | Center for Brain Science, Harvard University, supervised by Prof. Randy Buckner. Additionally, I am an online intern at the Vision and Computational Cognition Group at the Max Planck Institute for Human Cognitive and Brain Sciences under Dr. Martin Hebart.
 
-Department of Psychology | Center for Brain Science, Harvard University, Boston, MA, USA 
-Advised by Prof. Randy Buckner  April 2025 - Present
-
-
-Max Planck Institute for Human Cognitive and Brain Sciences | Vision and Computational Cognition Group, Leipzig, Germany 
-Advised by Prof. Martin Hebart  April 2025 - Present
-
-
-State Key Laboratory of Cognitive Neuroscience and Learning | IDG/McGovern Institute for Brain Research, Beijing Normal University (BNU), Beijing, China
-M.Eng, Computer Application Technology  Sep 2023 - Jul 2026
-Overall GPA: 3.8/4.0 (GPA Professional Ranking: 1/8)
-
-
-College of Information and Intelligent Science, Hunan Agricultural University (HUNAU), Hunan, China
-B.Eng, Intelligent Science and Technology  Sep 2019 - Jul 2023
-Overall GPA: 93.42/100 (GPA Professional Ranking: 1/70)
-
-
-School of Electronics Engineering and Computer Science, Peking University | Institute of Computing Technology, Chinese Academy of Science, Beijing, China
-Summer School, AI Computing Systems  Jul 2021 - Aug 2021
-Overall GPA: 95/100 (Best Developer Certification)
-
+</span>
