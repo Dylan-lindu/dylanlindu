@@ -1,26 +1,67 @@
 ---
-title: Research
+# Leave the homepage title empty to use the site title
+title:
+date: 2022-10-24
+type: landing
 
-# Listing view
-view: compact
-
-# Optional banner image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: ''
+sections:
+  - block: hero
+    content:
+      title: |
+        Wowchemy
+        Research Group
+      image:
+        filename: welcome.jpg
+      text: |
+        <br>
+        
+        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+  
+  - block: collection
+    content:
+      title: Latest News
+      subtitle:
+      text:
+      count: 5
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: post
+    design:
+      view: card
+      columns: '1'
+  
+  - block: markdown
+    content:
+      title:
+      subtitle: ''
+      text:
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: coders.jpg
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
+  
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+    design:
+      columns: '1'
 ---
-
-The research interests of Prof. Liu Bing mainly focus on the two topics:
-
-(1) Clinical translation of multi-modal neuroimaging: here we attempt to build clinical useful biomarkers for brain disorders by integrating multi-modal neuroimaging and other omics data, and using novel artificial intelligence technologies. The objective of these studies is to identify quantitative, individualized, generalized and clinically useful imaging biomarkers for the precision diagnosis and personalized treatment of brain disorders, especially for various psychiatric disorders.
-
-(2) Neuroscience translation of multi-modal data: By combing genome, transcriptome, multi-modal neuroimaging and other data, we attempt to study the heritability of brain networks, the connection between brain networks and genetic variations, to find key genes modulating hub brain regions and important brain connectivity, and finally to reveal the underlying genetic and neural mechanisms of the individual differences in human neurodevelopment, behaviors or brain disorders and to construct dynamic prediction models of individual performance. Our lab has published over 70 research papers in peer-reviewed journals, including Nature Medicine, Nature Communication, Journal of Neuroscience, Schizophrenia Bulletin, Neuropsychopharmacology, NeuroImage etc.
-
-
-The research group mainly focuses on scientific issues such as imaging markers and mechanism analysis of brain diseases and brain development. From the aspects of genome, transcriptome, multimodal brain imaging, phenotype, etc., to carry out cross-study of information science, neuroscience, artificial intelligence and clinical medicine. The main research directions include:
-
-(1) Extraction method of individualized brain structure and function indexes based on multimodal imaging technology, as well as fusion analysis method and modeling research with multi-omics data;
-
-(2) Using imaging genomics and other methods to study objective biological markers and precise diagnosis and treatment models of major mental illnesses;
-
-(3) Based on multi-level information to explore the relationship  of normal brain developmental trajectories model with development-related brain diseases .
