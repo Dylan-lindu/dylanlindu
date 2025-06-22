@@ -18,7 +18,7 @@ content:
 
   email: dylan.lindu@gmail.com
   address:
-    street: 33 Kirkland St 
+    street: Department of Psychology, Harvard University, 33 Kirkland St 
     city: Cambridge
     region: MA
     postcode: '02138'
