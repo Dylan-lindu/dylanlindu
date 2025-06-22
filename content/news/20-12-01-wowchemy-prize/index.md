@@ -6,7 +6,7 @@ date: 2020-12-01
 This year my poster was titled **“An Efficient Contrastive Deep Learning Model for Identifying Schizophrenia-Specific Neuroanatomical Variations ”**
 
 
-This work is revised in *Schizophrenia Bulletin*
+This work is revised in ***Schizophrenia Bulletin***.
 <!--more-->
 
 
