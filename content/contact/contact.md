@@ -25,8 +25,8 @@ content:
     country: United States
     country_code: US
   coordinates:
-    latitude: '39.96169'
-    longitude: '116.36621'
+    latitude: '42.377404379977534'
+    longitude: '-71.11343525976089'
   #contact_links:
   #  - icon: comments
   #    icon_pack: fas
