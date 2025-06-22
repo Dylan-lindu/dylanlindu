@@ -41,7 +41,7 @@ design:
   columns: '2'
   css_style: |
     /* 左 3 份宽度，右侧列只撑到它内容的宽度 */
-    --grid-template-columns: 5fr min-content;  
+    --grid-template-columns: 7fr min-content;  
     /* 让整体容器更宽一些 (或去掉下面两行撑满父级) */
     max-width: none;
     width: 90vw;
@@ -51,8 +51,8 @@ design:
 
 <br>
 <span style="font-size:25px;">
-My name is Lin Du, a second-year master's student in the <span style="color:red">State Key Laboratory of Cognitive Neuroscience and Learning | IDG/McGovern Institute for Brain Research</span>, Beijing Normal University (Ranked No.1 in China for Psychology/Psychiatry/Neuroscience).<br>
+My name is Lin Du, a second-year master's student in the <span style="color:red">State Key Laboratory of Cognitive Neuroscience and Learning | IDG/McGovern Institute for Brain Research</span>, Beijing Normal University (Ranked No.1 in China for Psychology/Psychiatry/Neuroscience).<br><br><br><br>
 
-I am presently a research scholar at the Department of Psychology | Center for Brain Science, Harvard University, supervised by Prof. Randy Buckner. Additionally, I am an online intern at the Vision and Computational Cognition Group at the Max Planck Institute for Human Cognitive and Brain Sciences under Dr. Martin Hebart.
+I am presently a research scholar at the <span style="color:red">Department of Psychology | Center for Brain Science, Harvard University</span>, supervised by <span style="color:red">Prof. Randy Buckner</span>. Additionally, I am an <span style="color:red">online intern at the Vision and Computational Cognition Group at the Max Planck Institute</span> for Human Cognitive and Brain Sciences under <span style="color:red">Dr. Martin Hebart</span>.
 
 </span>
