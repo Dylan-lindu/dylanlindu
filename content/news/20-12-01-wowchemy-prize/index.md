@@ -12,8 +12,10 @@ This work is revised in *Schizophrenia Bulletin*
 
 
 <!-- ![png](./index_1_0.png) -->
-<embed 
-  src="/OHBM_2025_poster_dylan.pdf" 
+<object 
+  data="/OHBM_2025_poster_dylan.pdf" 
   type="application/pdf" 
   width="100%" 
-  height="600px" />
+  height="600px">
+  <p>Your browser cannot embed PDF, please <a href="/OHBM_2025_poster_dylan.pdf">click here to download</a>。</p>
+</object>
