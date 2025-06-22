@@ -51,7 +51,7 @@ design:
 
 <br>
 <span style="font-size:25px;">
-My name is Lin Du, a second-year master's student in the State Key Laboratory of Cognitive Neuroscience and Learning | IDG/McGovern Institute for Brain Research, Beijing Normal University (Ranked No.1 in China for Psychology/Psychiatry/Neuroscience).<br>
+My name is Lin Du, a second-year master's student in the <span style="color:red">State Key Laboratory of Cognitive Neuroscience and Learning | IDG/McGovern Institute for Brain Research</span>, Beijing Normal University (Ranked No.1 in China for Psychology/Psychiatry/Neuroscience).<br>
 
 I am presently a research scholar at the Department of Psychology | Center for Brain Science, Harvard University, supervised by Prof. Randy Buckner. Additionally, I am an online intern at the Vision and Computational Cognition Group at the Max Planck Institute for Human Cognitive and Brain Sciences under Dr. Martin Hebart.
 
