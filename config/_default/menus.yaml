@@ -19,9 +19,8 @@ main:
   - name: Memories
     url: resources
     weight: 60
-  - name: Contact
+  - name: Info
     url: contact
-    weight: 70
-  - name: News
+    weight: 10
     url: news
     weight: 50
