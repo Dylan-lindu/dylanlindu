@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Liu B
+title: "**Liu B**"
 
 # Full name (for SEO)
 first_name: Liu
