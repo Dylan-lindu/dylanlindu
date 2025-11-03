@@ -4,8 +4,7 @@ title: Structural Brain Abnormalities in Schizophrenia Based on Contrastive Lear
 publication_types:
   - "2"
 authors:
-  - Du, L.
-  - Liu, B.
+  - "Lin Du"
 doi: ""
 publication: "*2025OHBM*"
 publication_short: ""
