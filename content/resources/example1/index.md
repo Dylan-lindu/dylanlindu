@@ -1,5 +1,5 @@
 ---
-title: Before 2022
+title: Harvard
 
 event: Wowchemy Conference
 event_url: https://example.org
@@ -12,7 +12,7 @@ address:
   postcode: '94305'
   country: United States
 
-summary: Memories of liulab
+summary: Memories
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
@@ -55,11 +55,11 @@ projects:
 ---
 ![png](./1.jpeg)
 
-![png](./2.JPG)
+![png](./2.jpeg)
 
 ![png](./3.jpeg)
 
-![png](./4.jpeg)
+![png](./4.JPG)
 
 ![png](./5.jpeg)
 
@@ -70,11 +70,3 @@ projects:
 ![png](./8.jpeg)
 
 ![png](./9.jpeg)
-
-![png](./10.jpeg)
-
-![png](./11.jpeg)
-
-![png](./12.jpeg)
-
-![png](./13.jpeg)
