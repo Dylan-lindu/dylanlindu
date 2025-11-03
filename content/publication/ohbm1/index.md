@@ -5,7 +5,6 @@ publication_types:
   - "2"
 authors:
   - Du L
-  - admin
 doi: ""
 publication: "*2025OHBM*"
 publication_short: ""
