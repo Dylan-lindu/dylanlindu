@@ -1,6 +1,6 @@
 ---
 slides: null
-title: Uni-BrainX":" Unified Brain Imaging Across Sites by Contrastive Learning and Transformer Attention
+title: "Uni-BrainX: Unified Brain Imaging Across Sites by Contrastive Learning and Transformer Attention"
 publication_types:
   - "2"
 authors:
