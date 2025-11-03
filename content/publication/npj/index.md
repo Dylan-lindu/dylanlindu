@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - "**Lin Du**"
-  - Liu Bing
+  - "**Lin Du**"
 doi: ""
 publication: "***npj Digital Medicine***(revision in progress)"
 publication_short: ""
