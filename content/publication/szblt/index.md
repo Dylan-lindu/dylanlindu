@@ -5,7 +5,6 @@ publication_types:
   - "2"
 authors:
   - Du L
-  - admin
 doi: ""
 publication: "***Schizophrenia Bulletin***(revised under review)"
 publication_short: ""
