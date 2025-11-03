@@ -4,7 +4,7 @@ title: An Efficient Contrastive Deep Learning Model for Identifying Schizophreni
 publication_types:
   - "2"
 authors:
-  - Lin Du
+  - "**Lin Du**"
   - Liu Bing
 doi: ""
 publication: "***Schizophrenia Bulletin***(revised under review)"
