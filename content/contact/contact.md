@@ -16,17 +16,17 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: dylan.lindu@gmail.com
+  email: lindu@fas.harvard.com
   address:
-    street: Department of Psychology, Harvard University, 33 Kirkland St 
+    street: Department of Psychology | Center for Brain Science, Harvard University, 52 Oxford Street, Northwest Science Building 
     city: Cambridge
     region: MA
     postcode: '02138'
     country: United States
     country_code: US
   coordinates:
-    latitude: '42.377404379977534'
-    longitude: '-71.11343525976089'
+    latitude: '42.380330698339826'
+    longitude: '-71.11523317003491'
   #contact_links:
   #  - icon: comments
   #    icon_pack: fas
