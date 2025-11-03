@@ -53,13 +53,28 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-![png](./1.jpg)
+![png](./1.jpeg)
 
-![png](./2.jpg)
+![png](./2.JPG)
 
-![png](./3.jpg)
+![png](./3.jpeg)
 
-![png](./4.jpg)
+![png](./4.jpeg)
 
-![png](./5.jpg)
+![png](./5.jpeg)
 
+![png](./6.jpeg)
+
+![png](./7.jpeg)
+
+![png](./8.jpeg)
+
+![png](./9.jpeg)
+
+![png](./10.jpeg)
+
+![png](./11.jpeg)
+
+![png](./12.jpeg)
+
+![png](./13.jpeg)
