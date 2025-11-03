@@ -7,7 +7,7 @@ authors:
   - Lin Du
   - Liu Bing
 doi: ""
-publication: "*Schizophrenia Bulletin(revised under review)*"
+publication: "***Schizophrenia Bulletin***(revised under review)"
 publication_short: ""
 projects:
   - internal-project
