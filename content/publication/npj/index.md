@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - Peng B Y
-  - du-l
+  - Du L
 doi: ""
 publication: "***npj Digital Medicine***(revision in progress)"
 publication_short: ""
