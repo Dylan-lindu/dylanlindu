@@ -47,9 +47,9 @@ design:
 
 ## Looking for Phd postions in fall, 2026!<br>
 
-I have had experience in <span style="color:red">computational neuroscience</span> research using Contrastive deep learning methods, Diffusion models, Transformer-based frameworks, LLMs, and model-based fMRI, and I would love the possibility of working with you in the future. 
+I have had experience in <span style="color:red">computational & Cognitive neuroscience</span> research using Contrastive deep learning methods, Diffusion models, Transformer-based frameworks, LLMs, and model-based fMRI, and I would love the possibility of working with you in the future. 
 
-I'm <span style="color:red">interested in</span> investigates the functional organization of the human visual representation; uncovering the internal architecture and computations of the brain’s language system; Brain-driven AI; NeuroAI; Psychiatry and Fine-grained brain-network research.
+I'm <span style="color:red">interested in</span> interested in investigating whole-brain circuit propagation and function, the functional organization of human visual representations, uncovering the internal architecture and computational mechanisms of the brain’s language system, NeuroAI, and psychiatry.
 
 
 If you are interested, feel free to chat with me and contact me!
