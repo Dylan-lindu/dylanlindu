@@ -4,8 +4,8 @@ title: Decoupling MCI-Specific and Cognitive Pathologies in Brain via Deep Learn
 publication_types:
   - "2"
 authors:
-  - Lin Du
-  - Lin Du
+  - "**Lin Du**"
+  - Liu Bing
 doi: ""
 publication: "***npj Digital Medicine***(revision in progress)"
 publication_short: ""
