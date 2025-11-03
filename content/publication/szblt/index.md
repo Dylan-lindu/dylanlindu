@@ -3,9 +3,7 @@ slides: null
 title: An Efficient Contrastive Deep Learning Model for Identifying Schizophrenia-Specific Neuroanatomical Variations
 publication_types:
   - "2"
-authors:
-  - "**Lin Du**"
-  - Liu Bing
+authors: "**Lin Du**, Liu Bing"
 doi: ""
 publication: "***Schizophrenia Bulletin***(revised under review)"
 publication_short: ""
