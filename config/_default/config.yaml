@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Lin Du (Dylan) # Website name
-baseURL: 'https://kwaihua.github.io/' # Website URL
+baseURL: 'https://lindu.site/' # Website URL
 
 # baseURL: research # Website URL
 ############################
@@ -34,6 +34,12 @@ summaryLength: 30
 paginate: 10
 enableEmoji: true
 enableRobotsTXT: true
+
+sitemap:
+  changefreq: monthly
+  priority: 0.5
+  filename: sitemap.xml
+
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
