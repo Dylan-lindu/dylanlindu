@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Du L
 doi: ""
-publication: "***Schizophrenia Bulletin***(revised under review)"
+publication: "***Schizophrenia Bulletin***(accepted)"
 publication_short: ""
 projects:
   - internal-project
